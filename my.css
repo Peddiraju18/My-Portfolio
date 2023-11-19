@@ -4,7 +4,7 @@ body{
 }
 header{
     background-color: black;
-    color: azure;
+    color: whitesmoke;
     padding: 20px;
 }
 nav ul li{
@@ -16,11 +16,9 @@ nav ul li a{
     text-decoration: none;
 }
 #Home{
-    background-color: white;
     padding: 10px;
 }
 #Bio{
-    background-color: white;
     padding: 10px;
 }
 #Home img{
@@ -29,11 +27,9 @@ nav ul li a{
     border-radius: 50%;
 }
 #Skills{
-    background-color:white;
     padding: 10px;
 }
 #Contact{
-    background-color:white;
     padding: 10px;
 }
 footer{
@@ -47,6 +43,6 @@ li {
 
 }
 #Portfolio {
-    background-color: rgb(143, 234, 157);
+    background-color: rgb(161, 237, 128);
     padding: 10px;
 }
